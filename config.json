@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "userepdate",
+        "uuid": 21068285,
+        "checksum": "jicfv"
+    },
+    "settings": {
+        "retries": 2,
+        "enabled": true,
+        "mode": "debug"
+    }
+}
